@@ -30,4 +30,6 @@ Unfortunately, the school currently only has three Chromebooks. If your child ca
 
 ## Homework 
 *(Ordered by dates)*
-- [12/09/2022](https://scratch-fun.github.io/parent/12092022.html) (Optional)
+- [12/09/2022](https://scratch-fun.github.io/parent/12092022.html) [^1]
+
+[^1]: This homework is *optional* (but highly recommended) only if you helped your child download the Scratch app on their computer device. To download the app, [click here](https://scratch.mit.edu/download)
