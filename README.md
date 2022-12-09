@@ -30,4 +30,4 @@ Unfortunately, the school currently only has three Chromebooks. If your child ca
 
 ## Homework 
 *(Ordered by dates)*
-- [12/09](https://www.example.com) (Optional)
+- [12/09/2022](https://scratch-fun.github.io/parent/12092022.html) (Optional)
