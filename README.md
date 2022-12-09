@@ -16,6 +16,7 @@ For more information about Scratch programming, please [click here](https://scra
 Unfortunately, the school currently only has three Chromebooks. If your child cannot bring a computer device, we have to let them pair with others to share a school Chromebook and take turns performing programming. It is very important to let them have a hands-on experiment.
 
 ## Student Account Information
+
 | Student Name | User Name | Password |
 | ----------- | ----------- | ----------- |
 | Alex Q. | alex13522 | 12345678 |
